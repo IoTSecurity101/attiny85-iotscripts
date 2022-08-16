@@ -1,2 +1,2 @@
-# attiny85-iotscripts
+# Attiny85-iotscripts
 Just for fun, no offensive purpose
