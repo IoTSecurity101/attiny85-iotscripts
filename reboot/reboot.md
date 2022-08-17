@@ -8,7 +8,7 @@
 5. System must Linux machine
 
 ### Code Explanation
-  DigiKeyboard.sendKeyStroke(0); - Taking as enter 
-  DigiKeyboard.println("reboot"); - printing as command
+- DigiKeyboard.sendKeyStroke(0); - Taking as enter 
+- DigiKeyboard.println("reboot"); - printing as command
   
   So it is easy one but fun one 
